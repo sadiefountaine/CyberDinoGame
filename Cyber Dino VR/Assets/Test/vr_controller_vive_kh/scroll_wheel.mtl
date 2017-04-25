@@ -1,0 +1,107 @@
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl blinn2SG
+illum 4
+Kd 0.00 0.90 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl button1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl led1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl r_grip1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl scroll_wheel1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl status1:initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd status.png
+Ni 1.00
+newmtl sys_button1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl trackpad1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl trackpad_touch1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
+newmtl trigger2:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd onepointfive_texture.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks onepointfive_spec.png
+Ns 0.06
